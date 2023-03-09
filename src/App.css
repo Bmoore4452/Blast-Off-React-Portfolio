@@ -1,38 +1,112 @@
-.App {
-  text-align: center;
+* {
+  margin: 0;
+  padding: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+header {
+  width: 100%;
+  height: 10vh;
+  background-color: red;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  align-items: center !important;
+  color: white !important;
+}
+
+.name {
+  margin-right: auto;
+}
+
+nav {
+  align-items: center !important;
+}
+nav a {
+  color: white !important;
+}
+
+.body {
+  width: 100%;
+  height: 100%;
+  background-color: grey;
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.about-container {
+  padding: 50px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.about-head {
+  padding: 5px 0px;
 }
+
+svg {
+  margin: 5px;
+  padding-bottom: 5px;
+}
+
+.portfolio-container {
+  padding: 50px;
+  width: 100%;
+  height: fit-content;
+}
+
+.portfolio-cards{
+  display: flex !important;
+  justify-content: space-between;
+
+}
+.portfolio-cards2{
+  display: flex !important;
+  justify-content: space-between;
+  margin-top: 4em;
+
+}
+
+.portfolio-card{
+  width: 30rem !important;
+  height: 18rem !important;
+}
+.portfolio-card img{
+  width: 100%;
+  height: 100%;
+}
+
+.contact {
+  padding: 50px;
+}
+
+.contact-head {
+  padding: 5px 0px;
+}
+
+.contact-form {
+  display: flex;
+}
+
+.submit-button {
+  margin-top: 1vh !important;
+  background-color: red !important;
+  border: red solid !important;
+}
+
+/* footer{
+  border: green solid;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+} */
+
+.logo img{
+  width: 50px;
+  height: 50px;
+}
+
+/* footer ul{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+footer li{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+} */
