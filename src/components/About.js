@@ -1,4 +1,3 @@
-
 export default function About() {
   return (
     <div className="about-container">
@@ -18,16 +17,9 @@ export default function About() {
         />
       </svg>
       <p className="about-text">
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus
-        nostrum odit voluptatibus beatae veritatis ab quia, nobis,
-        necessitatibus qui excepturi quam esse. Nisi voluptates omnis vel ipsum
-        quisquam eaque laboriosam.
-      </p>
-      <p>
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Animi
-        quibusdam ipsum ipsa qui, placeat odio quam aliquid nemo ad iusto
-        architecto laboriosam, eligendi voluptas maiores perspiciatis dolorem
-        veniam similique neque?
+        Hello! My name is Brian Moore! I am currently a student in the Georgia
+        Tech Full Stack Development Boot Camp. I made this React webpage to
+        display some of the projects that we have been working on.
       </p>
     </div>
   );
