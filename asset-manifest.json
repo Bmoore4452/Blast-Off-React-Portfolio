@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Blast-Off-React-Portfolio/static/css/main.b009d4a4.css",
-    "main.js": "/Blast-Off-React-Portfolio/static/js/main.e3b88b7e.js",
+    "main.js": "/Blast-Off-React-Portfolio/static/js/main.01c71bd3.js",
     "static/js/787.1ed0c42c.chunk.js": "/Blast-Off-React-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/homefit.png": "/Blast-Off-React-Portfolio/static/media/homefit.2d41bf8bd8ccb5c64fc4.png",
     "static/media/pokedex.png": "/Blast-Off-React-Portfolio/static/media/pokedex.27ae425b42a2732f22f8.png",
@@ -9,11 +9,11 @@
     "static/media/codequiz.png": "/Blast-Off-React-Portfolio/static/media/codequiz.53f2278e825cfcfa5481.png",
     "index.html": "/Blast-Off-React-Portfolio/index.html",
     "main.b009d4a4.css.map": "/Blast-Off-React-Portfolio/static/css/main.b009d4a4.css.map",
-    "main.e3b88b7e.js.map": "/Blast-Off-React-Portfolio/static/js/main.e3b88b7e.js.map",
+    "main.01c71bd3.js.map": "/Blast-Off-React-Portfolio/static/js/main.01c71bd3.js.map",
     "787.1ed0c42c.chunk.js.map": "/Blast-Off-React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b009d4a4.css",
-    "static/js/main.e3b88b7e.js"
+    "static/js/main.01c71bd3.js"
   ]
 }
