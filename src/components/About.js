@@ -17,9 +17,13 @@ export default function About() {
         />
       </svg>
       <p className="about-text">
-        Hello! My name is Brian Moore! I am currently a student in the Georgia
-        Tech Full Stack Development Boot Camp. I made this React webpage to
-        display some of the projects that we have been working on.
+        Back-end developer with a background in music production and public
+        speaking offering unique perspectives on how end-users interact with
+        websites and software platforms. Earned a certificate in Full Stack Web
+        Development from the Georgia Institute of Technology Boot Camp.
+        Innovative problem-solver who is passionate about developing apps with a
+        focus on mobile-first design and development. Strengths in creativity,
+        teamwork, and building projects from ideation to execution.
       </p>
     </div>
   );
